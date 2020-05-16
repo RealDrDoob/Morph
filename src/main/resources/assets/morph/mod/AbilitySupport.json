@@ -2186,5 +2186,8 @@
     "hostile",
 	"fear|9,0.6D,net.minecraft.entity.passive.EntityVillager",
     "sunburn"
+  ],
+  "net.minecraft.entity.passive.EntityBat": [
+    "fly|true"
   ]
 }
